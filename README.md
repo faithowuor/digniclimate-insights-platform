@@ -17,7 +17,7 @@ A low-bandwidth system using SMS/WhatsApp reporting by peer champions to generat
 Early-stage concept and prototype design.
 
 ## Open Source Commitment
-This project will be fully open-source and hosted on GitHub upon MVP development.
+This project will be fully open-source on other repositories
 
 ## Founder
 Impact Horizon Limited (Kenya)
